@@ -49,3 +49,9 @@ python compute_lambda2.py
 
 # Step 3: Plot numerical λ₂(L) against analytic C / L²
 python plot_scaling.py
+
+### 📄 Citation
+
+If you use this code, please cite the Zenodo archive:  
+https://zenodo.org/records/15694883
+
